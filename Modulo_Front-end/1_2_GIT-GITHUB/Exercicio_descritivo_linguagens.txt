@@ -1,0 +1,7 @@
+HTML - O html é a parte responsável pela estruturação do site, definindo onde cada elemento vai localizado, assim criando a base com os caminhos e posições de cada elemento,
+como titulos, paragrafos, imagens, links, players, entre tantas outras opções que consiguimos utilizar.
+
+CSS - Através do CSS é onde conseguimos estilizar e "dar vida" aos elementos setados no html, nele conseguimos demensionar as àreas do site, definir cores e estilos de
+cada parte do site.
+
+JS - Com o javascript é possivel incluir interações transições e outros elementos gráficos básicos ao site, para torná-lo mais intuítivo e dinâmico.
